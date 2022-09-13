@@ -58,7 +58,6 @@
     grid-area: govt; 
     background-image: url(/images/finland-1.jpg);
     justify-content: flex-end;
-    align-items: center;
 }
   .news {
     grid-area: news; 
